@@ -5,7 +5,6 @@
 		"picture": "https://avatars.githubusercontent.com/u/83011117?s=400&u=ef07a5f53923bc37657bfdc998e9a3f1eff4330a&v=4",
 		"email": "2020kucp1005@iiitkota.ac.in",
 		"phone": "+91 6263334703",
-		"website": "---Enter Link of website(if any) ---",
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
 			"address": "House no. 21, Ward no. 11, Dhan Mandi, Subhash Chowk",
@@ -56,15 +55,17 @@
 		"Primary & Secondry School": "Jyoti Convent Sr. Sec. School, Biaora",
 		"area  ": "Schooling",
 		"studyType  ": "Primary & Secondry",
-		"startDate  ": "2005 //Date",
-		"endDate  ": "2018 //Date"
+		"startDate  ": "2005",
+		"endDate  ": "2018"
 	}],
 	"skills": [{
 		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"],
-		"level ": "Language",
-		"keywords ": ["English"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"]
 	}],
+        "languages": [{
+            "language": "English",
+            "fluency": "Native speaker"
+        }],
 	"interests": [{
 		"name": "Sports",
 		"keywords  ": ["Chess", "Badminton"]

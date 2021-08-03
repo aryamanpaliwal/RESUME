@@ -52,10 +52,10 @@
 "percentage": "88.6% {12th grade}, 90.3% {11th grade}", 		
 "courses ": "PCM [PHYSICS,CHEMISTRY,MATHEMATICS]", 		
 "Primary & Secondry School": "Jyoti Convent Sr. Sec. School, Biaora", 		
-"area ": "Schooling", 		
-"studyType ": "Primary & Secondry", 		
-"startDate ": "2005", 		
-"endDate ": "2018" 	
+"area  ": "Schooling", 		
+"studyType  ": "Primary & Secondry", 		
+"startDate  ": "2005", 		
+"endDate  ": "2018" 	
 }], 	
 "skills": [{ 		
 "level": "Beginner", 		

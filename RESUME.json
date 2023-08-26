@@ -60,12 +60,20 @@
 	"awards": [{
 		"title": "Selected as International Delegate",
 		"awarder": "Asia Youth International MUN 12th Edition Malaysia",
+		"link":"https://drive.google.com/file/d/1yiAYX3Tksr2yF_eF8cs40gqU0E1fFQeN/view",
 		"date": "July-2023"
 	}, 
 		   {
 		"title": "Selected as International Delegate",
 		"awarder": "Asia World MUN VI Conference Thailand",
+		"link":"https://drive.google.com/file/d/1_5hwTNz5Wyfl46RrUkPkfAEI3njmB7EK/view",
 		"date": "July-2023"
+	},
+		 {
+		"title": "Codeforces Specialist",
+		"awarder": "Codeforces",
+		"link":"https://codeforces.com/profile/you_know_02",
+		"date": ""
 	}],
 	"publications": [{
 		"title": "Heart Stroke Prediction - Quantum Machine Learning",

@@ -1,64 +1,89 @@
 {
 	"basics": {
-		"name": "ARYAMAN PALIWAL",
+		"name": "Aryaman Paliwal",
 		"label": "Student",
-		"picture": "https://avatars.githubusercontent.com/u/83011117?s=400&u=ef07a5f53923bc37657bfdc998e9a3f1eff4330a&v=4",
+		"picture": "",
 		"email": "2020kucp1005@iiitkota.ac.in",
-		"phone": "+91 6263334703",
-		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+		"phone": "6263334703",
+		"website": "",
+		"summary": "Hi there! I'm Aryaman, a final year student pursuing a Bachelor's degree in Computer Science and Engineering from IIIT Kota. I am currently seeking a Software Development Engineer (SDE) internship opportunity to further enhance my skills and gain practical experience in the field. I'm a Programmer, Web Developer, I have acquired a strong foundation in computer science principles and programming languages such as C/C++, Python etc throughout my academic journey. I'm zealous towards technology and open to work with programming facts.",
 		"location": {
-			"address": "House no. 21, Ward no. 11, Dhan Mandi, Subhash Chowk",
+			"address": "Dhan Mandi, Subhash Chowk",
 			"postalCode": "465674",
-			"city": "Biaora",
+			"city": "Biaora, Rajgarh",
 			"countryCode": "India",
 			"region": "Madhya Pradesh"
 		},
-		"profiles": [{
-			"network": "Github",
-			"username": "aryamanpaliwal",
-			"url": "https://www.github.com/aryamanpaliwal/"
-		}, {
-			"network": "linkedin",
-			"username": "aryamanpaliwal",
-			"url": "https://www.linkedin.com/in/aryaman-paliwal-98b681200"
-		}, {
-			"network": "Instagram",
-			"username": "f.y.i_its_aryaman_paliwal",
-			"url": "https://instagram.com/f.y.i_its_aryamanpaliwal"
-		}]
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "aryamanpaliwal",
+				"url": "https://github.com/aryamanpaliwal"
+			},
+			{
+				"network": "linkedin",
+				"username": "aryamanpaliwal",
+				"url": "https://www.linkedin.com/in/aryamanpaliwal/"
+			}
+		]
 	},
+	"work": [{
+		"company": "Chegg INC.",
+		"position": "Subject Matter Expert",
+		"website": "",
+		"startDate": "Feb-2023",
+		"endDate": "Curr",
+		"summary": "Provided precise and enlightening resolutions for intricate programming dilemmas, encompassing data structures, algorithms, and various computer science principles. Demonstrated consistent proficiency in furnishing coherent and methodical solutions to multifaceted coding predicaments, facilitating students' grasp of intricate concepts and elevating their aptitude in creative problem-solving.",
+		"highlights": []
+	}],
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2020-12-09",
-		"endDate": "",
-		"gpa": "",
-		"courses": "Computer Science & Engineering",
-		"High School": "Manthan International School, Biaora",
-		"area ": "Schooling",
-		"studyType ": "High Secondry {10+2}",
-		"startDate ": "2018 ",
-		"endDate ": "2020",
-		"percentage": "88.6% {12th grade}, 90.3% {11th grade}",
-		"courses ": "PCM [PHYSICS,CHEMISTRY,MATHEMATICS]",
-		"Primary & Secondry School": "Jyoti Convent Sr. Sec. School, Biaora",
-		"area  ": "Schooling",
-		"studyType  ": "Primary & Secondry",
-		"startDate  ": "2005",
-		"endDate  ": "2018"
+			"institution": "Indian Institute of Information Technology, Kota",
+			"area": "Engineering",
+			"studyType": "Bachelor (hons)",
+			"startDate": "08-12-2020",
+			"endDate": "2024",
+			"gpa": "",
+			"courses": [
+				"Computer Science & Engineering"
+			]
+		},
+		{
+			"institution": "Manthan International School, Biaora",
+			"area": "Senior Secondary",
+			"studyType": "MPBSE",
+			"startDate": "2018",
+			"endDate": "2020",
+			"percentage": "88.60%",
+			"courses": ["Physics Chemistry Mathematics"]
+		}
+	],
+	"awards": [{
+		"title": "Selected as International Delegate",
+		"awarder": "Asia Youth International MUN 12th Edition Malaysia",
+		"date": "July-2023"
+	}, 
+		   {
+		"title": "Selected as International Delegate",
+		"awarder": "Asia World MUN VI Conference Thailand",
+		"date": "July-2023"
+	}],
+	"publications": [{
+		"title": "Heart Stroke Prediction - Quantum Machine Learning",
+		"details":"▸This is a research Based project. Come up with an improved algorithm and Promising results. ▸Achieved an accuracy of 98.71%. ▸Tech: Python, Classical & Quantum Machine Learning, Qiskit, IBM Quantum Composer.",
+		"link": "https://github.com/aryamanpaliwal/Major_Project"
+	}, 
+			{
+		"title": "VoiceFeed",
+		"details": "▸VoiceFeed is a web based application which can fetch news from different sources and categories. ▸Adding to that it can also fetch weather by users voice command. ▸Tech: React, AlanAI, HTML, CSS, JavaScript, Node, Express",
+		"link": "https://voicefeed-by-aryaman-paliwal.netlify.app/"
 	}],
 	"skills": [{
-		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "PHP"]
-	}],
-	"languages": [{
-		"language": "English",
-		"fluency": "Native speaker"
+		"level": "Intermediate",
+		"keywords": [ "C++","Python","Javascript","React","HTML", "CSS", "Node", "Express", "MongoDB", "Git", "Data Structure", "Algorithm", "Database Management System", "Operating System", "Computer Networks", "Classical & Quantum Machine Learning", "Qiskit", "Alan AI", "IBM Quantum Experience"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords ": ["Chess", "Badminton"]
+		"name": "Activity",
+		"keywords": ["Travelling"]
 	}],
 	"references": []
 }
